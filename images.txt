@@ -6,5 +6,6 @@ python:alpine3.19
 ghcr.io/open-webui/open-webui:main
 mzz2017/v2raya
 redis
+mysql
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
